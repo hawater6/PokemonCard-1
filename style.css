@@ -1,0 +1,255 @@
+html {
+  height: 100%;
+  width: 100%;
+}
+
+.border {
+  background-color: #9a9c9c;
+  height: 450px;
+  width: 310px;
+  border: 4px solid black;
+  position: static;
+  border-radius: 20px;
+}
+
+.purpleBackground {
+  background-color: #ac75b5;
+  height: 430px;
+  width: 280px;
+  position: relative;
+  border-radius: 20px;
+  top: 6px;
+  left: 10px;
+  border: 4px solid black;
+}
+
+.pinkBackground {
+  background-color: #e7adce;
+  height: 370px;
+  width: 265px;
+  position: relative;
+  left: 15px;
+  border-radius: 5% 5% 0 0;
+}
+
+.basicBox {
+  background-color: #bdc6c4;
+  height: 20px;
+  width: 65px;
+  position: fixed;
+  top: 18px;
+  left: 17px;
+  border-radius: 20px;
+}
+
+h4 {
+  position: fixed;
+  top: -3px;
+  left: 30px;
+  font-style: italic;
+}
+
+.purpleBox {
+  background-color: #ac75b5;
+  height: 50px;
+  width: 180px;
+  position: absolute;
+  border-radius: 20px;
+  left: -5px;
+
+}
+.Imagebox {
+  background-color: white;
+  height: 154px;
+  width: 250px;
+  border: 2px solid silver;
+  position: relative;
+  top: 20px;
+  text-align: center;
+}
+
+.img {
+  position: absolute;
+  width: 250px;
+  height: 180px;
+  top: 44px;
+  left: 2px;
+}
+
+.Name {
+  position: relative;
+  top: 10px;
+  left: 50px;
+  font-weight: bold;
+  font-size: 20px;
+}
+
+.HP {
+  font-size: 10px;
+  position: absolute;
+  top: 25px;
+  left: 185px;
+  font-weight: bold;
+
+}
+
+.Seventy {
+  font-size: 30px;
+  position: absolute;
+  top: 5px;
+  left: 200px;
+  font-weight: bold;
+
+
+}
+.Smithereen {
+font-size: 15px;
+font-weight: bold;
+position: absolute;
+top: 250px;
+left: 70px;
+
+
+}
+
+.Ten {
+font-size: 15;
+font-weight: bold;
+position: absolute;
+top: 250px;
+left: 235px;
+}
+
+.DescriptionBox{
+font-size: 10px;
+font-weight: bold;
+position: absolute;
+top: 290px;
+left: 28px;
+margin: -25px;
+}
+
+.WeaponDiscription{
+font-size: 10px;
+position: absolute;
+bottom: -47px;
+left: 135px;
+margin: -5px 
+
+
+}
+.SilverTag{
+background-color: silver;
+height: 15px;
+width: 270px;
+position: absolute;
+top: 200px;
+right: 5px;
+border-radius: 5px;
+}
+
+.numberDesc{
+font-size: 8px;
+bottom: 510px;
+left: 80px;
+position: absolute;
+}
+
+.charDesc {
+  font-size: 8px;
+  top: 203px;
+  left: 45px;
+  position: absolute;
+}
+
+
+.FirstFramebar{
+  height: 4px;
+  width: 270px;
+  background-color: silver;
+  position: relative;
+  top: 150px;
+  right: 10px;
+
+
+}
+.SecondFramebar{
+  height: 4px;
+  width: 270px;
+  background-color: silver;
+  position: relative;
+  top: 165px;
+  right: 10px;
+}
+
+
+.weakness{
+  font-size: 10px;
+  position: absolute;
+  top: 337px;
+  left: 0px;
+}
+
+.resistance{
+  font-size: 10px;
+  position: absolute;
+  top: 337px;
+  left: 100px;
+}
+
+.retreat{
+  font-size: 10px;
+  position: absolute;
+  top: 337px;
+  left: 190px;
+}
+
+.x2{
+  font-size: 10px;
+  font-weight: bold;
+  position: absolute;
+  top: 337px;
+  left: 65px;
+}
+
+.eyeImage {
+  position: absolute;
+  top: 0px;
+  left: 215px;
+}
+
+.randomImage {
+  position: absolute;
+  bottom: -70px;
+  left: 0px;
+  height: 40px;
+  width: 20px;
+}
+
+.x2Image {
+  position: absolute;
+  bottom: 15px;
+  left: 45px;
+}
+
+.retreatImage {
+  position: absolute;
+  bottom: 17px;
+  left: 220px;
+}
+
+.eye2Image {
+  position: absolute;
+  bottom: 100px;
+}
+
+.illusDesc {
+  font-size: 7px;
+  font-weight: bold;
+  bottom: -30px;
+  left: 0px;
+  position: absolute;
+}
+
+
+
